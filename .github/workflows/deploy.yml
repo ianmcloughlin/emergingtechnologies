@@ -1,9 +1,13 @@
+# Name of the workflow.
 name: Build and Deploy
 
+# Events to trigger workflow.
 on:
+  # Pushing to the repository.
   push:
     branches:
       - main
+  # Pull requests.
   pull_request:
     branches:
       - '*'
