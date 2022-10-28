@@ -35,7 +35,7 @@ jupyterlab~=3.4.7
 # jupyterlab-tour
 
 
-jupyterlite==0.1.0b13
+jupyterlite==0.1.0b14
 
 # jupyterlite-p5-kernel==0.1.0a12
 # jupyterlite-xeus-lua==0.3.1
